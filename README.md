@@ -45,10 +45,4 @@ Realizar análises e extrações de dados a partir de planilhas Excel, utilizand
 
 ---
 
-## 🚀 Como Executar
-
-1. Clone este repositório:
-```bash
-git clone https://github.com/nkenshaka/estudo-de-caso-pgfn.git
-
 
